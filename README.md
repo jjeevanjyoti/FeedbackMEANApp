@@ -1,10 +1,9 @@
 # Feedbackapp
 
-This project is demo project taught by maxmillan.
+This project FeedbackApp proejct usinmg MEAN.
 
-# source 
 
-[FreeCourseSite.com] Udemy - Angular & NodeJS - The MEAN Stack Guide
+
 
 ## Development server
 
