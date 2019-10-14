@@ -8,3 +8,12 @@ database therory:
   });
 
   here find is asynchrounus type so we need to keep res.json() inside the find block.
+
+
+  angular theroy:
+  ---------------
+
+  1.proxy element to click on input but it will show button instead of input field.
+
+   <button mat-stroked-button type="button" (click)="filePiker.click()">pick image</button>
+   <input type="file" #filePicker>
